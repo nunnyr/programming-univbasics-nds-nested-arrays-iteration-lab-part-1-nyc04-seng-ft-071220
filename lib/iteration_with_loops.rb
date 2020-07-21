@@ -15,14 +15,13 @@ def find_even_values(src)
       row_index += 1 
     end
   
+ 
 
-end
 
+# row = 0 
 
-row = 0 
-
-while row < spice_rack.count do 
-  element = 0 
+# while row < spice_rack.count do 
+#   element = 0 
   
-  while element < spice[row].count do 
-     p spice[row][element]
+#   while element < spice[row].count do 
+#     p spice[row][element]
